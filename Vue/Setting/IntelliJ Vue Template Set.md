@@ -9,11 +9,15 @@ HTML의 경우 ! + Tab키로 템플릿 세팅했던 것이 상당히 편했기 �
 우측의 + 버튼 > Live Template
 
 Abbreviation에 단축어로 세팅할 단어 선정 
-```<Vue!>```
+
+```
+<Vue!>
+```
 
 Template Text에 템플릿 작성
 
-```<template>
+```
+<template>
   <div></div>
 </template>
 
@@ -30,4 +34,7 @@ export default {
   },
   methods: {}
 }
-</script>```
+</script>
+```
+
+*익명의 개발자가 도움을 주었습니다 *
