@@ -1,6 +1,6 @@
 
 ```
-Promise.all([], [] ...)
+Promise.all( [ a, b, b ... ] )
         .then((A) => {
         
         })
