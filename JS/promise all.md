@@ -17,7 +17,7 @@ Promise.all( [
 
 ] )
         .then((response_list) => {
-         const @_type_cd_options_list , @@_type_cd_options_list ] = response_list
+         const [ @_type_cd_options_list , @@_type_cd_options_list ] = response_list
         
         })
         .catch((error) => {
